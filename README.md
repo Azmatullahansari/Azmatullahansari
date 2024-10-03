@@ -14,5 +14,5 @@ Skills: TAILWINDCSS / REACT / JS / HTML / CSS/ JAVA
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Azmatullahansari&show_icons=true)  
+
 
