@@ -12,7 +12,4 @@ Skills: TAILWINDCSS / REACT / JS / HTML / CSS/ JAVA
 - 📫 How to reach me: Eemrankhan6@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Azmatullahansari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/azmatullah-ansari-971868259//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/azmatullah_ansari786/?hl=en/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Azmatullahansari&show_icons=true)  
 
